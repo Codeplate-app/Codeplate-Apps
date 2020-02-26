@@ -1,6 +1,4 @@
 {
-  "readmeFile": "https://github.com/MrAnyx/CodePlate/blob/master/README.md",
-  "projectUrl": "https://github.com/MrAnyx/CodePlate",
-  "languages": ["js", "html", "css"],
-  "tech": "["react", "electron"],
+  "projectName": "react-electron",
+  "languages": ["Javascript", "HTML", "CSS"]
 }
