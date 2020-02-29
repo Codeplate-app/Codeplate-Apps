@@ -1,4 +1,5 @@
 {
   "projectName": "react-electron",
-  "languages": ["Javascript", "HTML", "CSS"]
+  "languages": ["Javascript", "HTML", "CSS"],
+  "downloadable": true
 }
