@@ -1,0 +1,7 @@
+{
+  "title": "Electron",
+  "description": "How to use ElectronJS",
+  "projectUrl": "https://github.com/electron/electron",
+  "languages": ["Javascript", "C", "C++"],
+  "downloadable": false
+}
