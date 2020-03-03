@@ -1,4 +1,6 @@
 {
+  "title": "React Electron",
+  "description": "A quick introduction to show you how to link react with electron",
   "projectUrl": "https://github.com/MrAnyx/react-electron",
   "languages": ["Javascript", "HTML", "CSS"],
   "downloadable": true
