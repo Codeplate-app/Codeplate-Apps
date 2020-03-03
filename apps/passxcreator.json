@@ -1,0 +1,7 @@
+{
+  "title": "PassXcreator",
+  "description": "Password generator in Python",
+  "projectUrl": "https://github.com/MrAnyx/PassXcreator",
+  "languages": ["Python"],
+  "downloadable": true
+}
