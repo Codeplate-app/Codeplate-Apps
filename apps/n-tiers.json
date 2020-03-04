@@ -1,0 +1,7 @@
+{
+  "title": "Exemple N-Tiers",
+  "description": "How to create a N-Tiers architecture",
+  "projectUrl": "https://github.com/MrAnyx/Exemple-N-Tiers",
+  "languages": ["PHP"],
+  "downloadable": true
+}
