@@ -4,10 +4,12 @@ List of all boilerplates from the electron app CodePlate
 Just create an issue that contains the following content :
 ```json
 {
-  "projectUrl": "https://github.com/user/repository",
-  "languages": ["Javascript", "HTML", "CSS"],
-  "downloadable": true
-}
+   "title": "CodePlate",
+   "description": "boilerplates manager",
+   "projectUrl": "https://github.com/MrAnyx/CodePlate",
+   "languages": ["Javascript", "HTML", "CSS"],
+   "downloadable": false
+ }
 ```
 
 `projectUrl` refers to your github project url.
