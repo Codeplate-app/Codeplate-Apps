@@ -2,6 +2,7 @@
   "title": "PassXcreator",
   "description": "Password generator in Python",
   "projectUrl": "https://github.com/MrAnyx/PassXcreator",
+  "readme": "https://raw.githubusercontent.com/MrAnyx/PassXcreator/master/README.md",
   "languages": ["Python"],
   "downloadable": true
 }
