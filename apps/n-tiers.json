@@ -2,6 +2,7 @@
   "title": "Exemple N-Tiers",
   "description": "How to create a N-Tiers architecture",
   "projectUrl": "https://github.com/MrAnyx/Exemple-N-Tiers",
+  "readme": "https://raw.githubusercontent.com/MrAnyx/Exemple-N-Tiers/master/README.md",
   "languages": ["PHP"],
   "downloadable": true
 }
