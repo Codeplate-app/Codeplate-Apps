@@ -2,6 +2,7 @@
   "title": "React Electron",
   "description": "A quick introduction to show you how to link react with electron",
   "projectUrl": "https://github.com/MrAnyx/react-electron",
+  "readme": "https://raw.githubusercontent.com/MrAnyx/react-electron/master/README.md"
   "languages": ["Javascript", "HTML", "CSS"],
   "downloadable": true
 }
