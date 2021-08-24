@@ -7,12 +7,18 @@ Just create an issue that contains the following content :
    "title": "CodePlate",
    "description": "boilerplates manager",
    "projectUrl": "https://github.com/MrAnyx/CodePlate",
+   "readme": "https://raw.githubusercontent.com/MrAnyx/CodePlate-App/master/README.md",
    "languages": ["Javascript", "HTML", "CSS"],
    "downloadable": false
  }
 ```
+`title` is the name that will be display in the app.
+
+`description` is a short explanation of your boilerplate.
 
 `projectUrl` refers to your github project url.
+
+`readme` is the link to the raw version of the readme file.
 
 `languages` is an array of languages the are used in your project.
 
