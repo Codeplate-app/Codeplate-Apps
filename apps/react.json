@@ -2,6 +2,7 @@
    "title": "React",
    "description": "React js framework",
    "projectUrl": "https://github.com/MrAnyx/tmp",
+   "readme": "https://raw.githubusercontent.com/facebook/react/main/README.md",
    "languages": ["Javascript", "HTML", "CSS"],
    "downloadable": false
  }
