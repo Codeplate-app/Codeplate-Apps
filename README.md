@@ -18,7 +18,7 @@ Just create an issue that contains the following content :
 
 `projectUrl` refers to your github project url.
 
-`readme` is the link to the raw version of the readme file.
+`readme` (Optional) is the link to the raw version of the readme file. If this parameter is not set, the default project readme will be used.
 
 `languages` is an array of languages the are used in your project.
 
